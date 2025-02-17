@@ -87,4 +87,8 @@ export default defineConfig({
       },
     },
   },
+
+  server: {
+    port: 4321, // hoặc cổng bạn muốn sử dụng
+  },
 });
